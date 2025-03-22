@@ -14,7 +14,7 @@ To set up this monitoring system:
 3. **Run Docker Compose**:  
    Navigate to the project directory and run the following command to start the containers:
    ```bash
-   docker-compose up
+   docker compose up
 
 ---
 
