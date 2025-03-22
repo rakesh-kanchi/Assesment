@@ -98,7 +98,7 @@ To monitor multiple servers:
 
 ## Visualization Dashboard
 
-Grafana is connected to Prometheus for visualizing the metrics.
+Grafana is connected to Prometheus for visualizing the metrics(cpu, memory, disk, network).
 
 ![dashboard](https://github.com/user-attachments/assets/ed5d055b-4085-429d-baaa-84b4043a19e2)
 
