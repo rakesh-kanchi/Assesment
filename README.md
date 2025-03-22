@@ -1,6 +1,22 @@
 # Assessment
 
 This is my take-home assessment.
+
+## Overview
+
+This project implements a monitoring system using **Prometheus**, **Prometheus Node Exporter**, and **Grafana** to track system-level metrics such as CPU usage, memory usage, disk usage, and network traffic.
+
+### Key Features:
+- **Real-Time Metrics Monitoring**: Collects metrics such as CPU usage, memory, disk, and network traffic from the monitored servers.
+- **Alerting System**: Configures alerts in **Grafana** for important system events (e.g., CPU usage > 80% for more than 2 minutes).
+- **Visualization**: Uses **Grafana** to visualize the collected metrics with custom dashboards for easy monitoring and analysis.
+- **Easy Setup**: The system can be quickly set up using **Docker** and **Docker Compose**, making it portable and easy to deploy.
+
+### Tools Used:
+- **Prometheus**: A time-series database that collects and stores the metrics data.
+- **Prometheus Node Exporter**: A lightweight exporter that exposes system metrics from monitored servers.
+- **Grafana**: A data visualization tool used to display the metrics and set up alerts.
+
 ## Setup
 
 To set up this monitoring system:
