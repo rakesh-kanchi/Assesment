@@ -1,6 +1,22 @@
 # Assessment
 
 This is my take-home assessment.
+## Setup
+
+To set up this monitoring system:
+
+1. **Install Docker**:  
+   Follow the official Docker installation guide for your platform.
+
+2. **Install Docker Compose Plugin**:  
+   Install the Docker Compose plugin to manage multi-container Docker applications.
+
+3. **Run Docker Compose**:  
+   Navigate to the project directory and run the following command to start the containers:
+   ```bash
+   docker-compose up
+
+---
 
 ## Monitoring Design
 
