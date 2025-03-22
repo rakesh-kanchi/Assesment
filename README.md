@@ -5,11 +5,14 @@ This is my take-home assessment.
 
 To set up this monitoring system:
 
+
 1. **Install Docker**:  
-   Follow the official Docker installation guide for your platform.
+   Follow the official Docker installation guide for your platform:  
+   [Docker Installation Guide](https://docs.docker.com/get-docker/)
 
 2. **Install Docker Compose Plugin**:  
-   Install the Docker Compose plugin to manage multi-container Docker applications.
+   Install Docker Compose by following the official guide here:  
+   [Docker Compose Installation Guide](https://docs.docker.com/compose/install/)
 
 3. **Run Docker Compose**:  
    Navigate to the project directory and run the following command to start the containers:
